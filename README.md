@@ -1,5 +1,5 @@
-# LLM-Learning
-This repository contains a collection of projects and experiments developed while learning about large language models (LLMs). It includes hands-on implementations using Hugging Face Transformers, covering topics such as:
+# LLM-Learning Repository
+This repository contains a collection of projects and experiments developed while learning about **large language models (LLMs)**. It includes hands-on implementations using **Hugging Face Transformers**, covering topics such as:
 * Prompt engineering
 * In-context learning (zero-shot, one-shot, few-shot)
 
