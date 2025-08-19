@@ -5,6 +5,7 @@ This repository contains a collection of projects and experiments developed whil
 * Use FLAN-T5, a large language model fine-tuned with instruction-based tasks to follow natural language prompts
 * Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
+* Evaluation using BLEU score
 
 ---
 
