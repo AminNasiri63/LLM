@@ -20,4 +20,12 @@ This repository contains a collection of projects and experiments developed whil
 ---
 
 # 📝 BleuScore.ipynb
-* This file compares English-to-Farsi translation quality between **facebook/mbart model** and **Google Translate**, using **BLEU score** as the evaluation metric. 
+* This file compares English-to-Farsi translation quality between **facebook/mbart model** and **Google Translate**, using **BLEU score** as the evaluation metric.
+
+---
+
+# 📝 RAGLangChain.ipynb
+* This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document.
+
+---
+
