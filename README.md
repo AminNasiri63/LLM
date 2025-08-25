@@ -26,7 +26,7 @@ This repository contains a collection of projects and experiments developed whil
 ---
 
 # 📝 RAGLangChain.ipynb
-* This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document.
+* This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document (Sample.pdf).
 
 ---
 
