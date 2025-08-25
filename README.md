@@ -7,6 +7,7 @@ This repository contains a collection of projects and experiments developed whil
 * Translate input text
 * Evaluation using BLEU score
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
+* Program-Aided Language model (PAL)
 
 ---
 
@@ -27,6 +28,11 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 RAGLangChain.ipynb
 * This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document (Sample.pdf).
+
+---
+
+# 📝 PAL.ipynb
+* This Jupyter Notebook implements a **Program-Aided Language model (PAL)** chain from scratch. It's designed to solve math and reasoning problems by generating and executing Python code.
 
 ---
 
