@@ -6,6 +6,7 @@ This repository contains a collection of projects and experiments developed whil
 * Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
 * Evaluation using BLEU score
+* Retrieval-Augmented Generation (RAG) pipeline built with LangChain
 
 ---
 
