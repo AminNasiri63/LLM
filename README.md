@@ -6,6 +6,7 @@ This repository contains a collection of projects and experiments developed whil
 * Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
 * Evaluation using BLEU score
+* Proximal Policy Optimization (PPO) technique
 * Model pruning technique
 * Knowledge distillation technique
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
@@ -25,6 +26,11 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 BleuScore.ipynb
 * This file compares English-to-Farsi translation quality between **facebook/mbart model** and **Google Translate**, using **BLEU score** as the evaluation metric.
+
+---
+
+# 📝 FineTuneWithPPO.ipynb
+* In this notebook, we fine-tune the **FLAN-T5 model** to generate less toxic content using Meta AI's hate speech reward model. We employ **Proximal Policy Optimization (PPO)**, a **reinforcement learning algorithm**, to reduce the model's toxicity.
 
 ---
 
