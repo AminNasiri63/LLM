@@ -7,6 +7,7 @@ This repository contains a collection of projects and experiments developed whil
 * Translate input text
 * Evaluation using BLEU score
 * Proximal Policy Optimization (PPO) technique
+* Direct Preference Optimization (DPO) technique
 * Model pruning technique
 * Knowledge distillation technique
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
@@ -31,6 +32,11 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 FineTuneWithPPO.ipynb
 * In this notebook, we fine-tune the **FLAN-T5 model** to generate less toxic content using Meta AI's hate speech reward model. We employ **Proximal Policy Optimization (PPO)**, a **reinforcement learning algorithm**, to reduce the model's toxicity.
+
+---
+
+# 📝 FineTuneWithDPO.ipynb
+* This Jupyter Notebook demonstrates how to fine-tune a language model using **Direct Preference Optimization (DPO)**. The project aligns the **Qwen/Qwen2.5-0.5B-Instruct model** to generate more desirable outputs based on a dataset of human preferences.
 
 ---
 
