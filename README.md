@@ -26,6 +26,13 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 PruningLlama3_2_1b.ipynb
+* This Jupyter Notebook demonstrates an advanced **model pruning technique** applied to **Meta's Llama-3.2-1B model**. The goal is to reduce the model's size and computational cost while minimizing the impact on performance.
+* Please note that access to **Meta's Llama-3.2-1B model** must be requested.
+* **source code**: [Link Text](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main)
+
+---
+
 # 📝 RAGLangChain.ipynb
 * This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document (Sample.pdf).
 
