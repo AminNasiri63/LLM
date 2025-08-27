@@ -6,6 +6,7 @@ This repository contains a collection of projects and experiments developed whil
 * Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
 * Evaluation using BLEU score
+* Model pruning technique
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
 * Program-Aided Language model (PAL)
 
@@ -28,8 +29,8 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 PruningLlama3_2_1b.ipynb
 * This Jupyter Notebook demonstrates an advanced **model pruning technique** applied to **Meta's Llama-3.2-1B model**. The goal is to reduce the model's size and computational cost while minimizing the impact on performance.
-* Please note that access to **Meta's Llama-3.2-1B model** must be requested.
-* **source code**: [Link Text](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main)
+* Please keep in mind that access to **Meta's Llama-3.2-1B model** must be requested.
+* **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main)
 
 ---
 
