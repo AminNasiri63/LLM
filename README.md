@@ -37,6 +37,7 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 FineTuneWithDPO.ipynb
 * This Jupyter Notebook demonstrates how to fine-tune a language model using **Direct Preference Optimization (DPO)**. The project aligns the **Qwen/Qwen2.5-0.5B-Instruct model** to generate more desirable outputs based on a dataset of human preferences.
+* **source code**: [Link](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs)
 
 ---
 
