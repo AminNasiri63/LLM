@@ -7,6 +7,7 @@ This repository contains a collection of projects and experiments developed whil
 * Translate input text
 * Evaluation using BLEU score
 * Model pruning technique
+* Knowledge distillation technique
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
 * Program-Aided Language model (PAL)
 
@@ -34,6 +35,12 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 KnowledgeDistillationLlama.ipynb
+* The Jupyter Notebook implements **Knowledge Distillation** to improve the performance of a pruned language model. The project uses a large "teacher" model to train a smaller "student" model, transferring its knowledge and enhancing the student's capabilities.
+* Please keep in mind that access to **Meta's Llama-3.2-1B model** must be requested.
+* **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main)
+
+---
 # 📝 RAGLangChain.ipynb
 * This Jupyter Notebook demonstrates a complete **Retrieval-Augmented Generation (RAG)** pipeline built with **LangChain**. It's specifically configured to answer questions in Persian based on the content of a provided PDF document (Sample.pdf).
 
