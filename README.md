@@ -8,6 +8,7 @@ This repository contains a collection of projects and experiments developed whil
 * Evaluation using BLEU score
 * Proximal Policy Optimization (PPO) technique
 * Direct Preference Optimization (DPO) technique
+* Group Relative Policy Optimization (GRPO) technique
 * Model pruning technique
 * Knowledge distillation technique
 * Retrieval-Augmented Generation (RAG) pipeline built with LangChain
@@ -36,7 +37,7 @@ This repository contains a collection of projects and experiments developed whil
 ---
 
 # 📝 FineTuneWithDPO.ipynb
-* This Jupyter Notebook demonstrates how to fine-tune a language model using **Direct Preference Optimization (DPO)**. The project aligns the **Qwen/Qwen2.5-0.5B-Instruct model** to generate more desirable outputs based on a dataset of human preferences.
+* This Jupyter Notebook demonstrates how to fine-tune a language model using **Direct Preference Optimization (DPO)**. The project aligns the **Qwen2.5 model** to generate more desirable outputs based on a dataset of human preferences.
 * **source code**: [Link](https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs)
 
 ---
@@ -44,6 +45,12 @@ This repository contains a collection of projects and experiments developed whil
 # 📝 FineTuneWithDPOPhi3.ipynb
 * This Jupyter Notebook is for fine-tuning the **microsoft/Phi-3-mini-4k-instruct model** using **Direct Preference Optimization (DPO)**. The project aligns the model with human preferences using the argilla/distilabel-capybara-dpo-7k-binarized dataset.
 * **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)
+
+---
+
+# 📝 FineTuneWithGRPO_Unsloth.ipynb
+* This Jupyter Notebook contains fine-tuning the **Qwen2.5 model** using **Group Relative Policy Optimization (GRPO)** as a **reinforcement learning–based fine-tuning method** for mathematical reasoning tasks. The project leverages the **Unsloth library** for highly efficient training.
+* **source code**: [Link](https://github.com/unslothai/notebooks)
 
 ---
 
