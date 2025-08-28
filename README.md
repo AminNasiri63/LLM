@@ -41,6 +41,12 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 FineTuneWithDPOPhi3.ipynb
+* This Jupyter Notebook is for fine-tuning the **microsoft/Phi-3-mini-4k-instruct model** using **Direct Preference Optimization (DPO)**. The project aligns the model with human preferences using the argilla/distilabel-capybara-dpo-7k-binarized dataset.
+* **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)
+
+---
+
 # 📝 PruningLlama3_2_1b.ipynb
 * This Jupyter Notebook demonstrates an advanced **model pruning technique** applied to **Meta's Llama-3.2-1B model**. The goal is to reduce the model's size and computational cost while minimizing the impact on performance.
 * Please keep in mind that access to **Meta's Llama-3.2-1B model** must be requested.
