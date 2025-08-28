@@ -42,6 +42,11 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 FineTuneWithDPO_Unsloth.ipynb
+* This Jupyter Notebook demonstrates how to fine-tune a language model using **Direct Preference Optimization (DPO)**. The project aligns the **Qwen2.5 model** to generate more desirable outputs based on a dataset of human preferences. The project leverages the **Unsloth library** for highly efficient training.
+
+---
+
 # 📝 FineTuneWithDPOPhi3.ipynb
 * This Jupyter Notebook is for fine-tuning the **microsoft/Phi-3-mini-4k-instruct model** using **Direct Preference Optimization (DPO)**. The project aligns the model with human preferences using the argilla/distilabel-capybara-dpo-7k-binarized dataset.
 * **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course)
