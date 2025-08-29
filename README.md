@@ -38,6 +38,10 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 FineTunePEFT_IMDB_Classifier.ipynb
+* This Jupyter Notebook demonstrates how to efficiently fine-tune the **google/gemma-2b-it model** for **sentiment analysis** using **Parameter-Efficient Fine-Tuning (PEFT)** with **LoRA (Low-Rank Adaptation)**.
+---
+
 # 📝 FineTuneWithPPO.ipynb
 * In this notebook, we fine-tune the **FLAN-T5 model** to generate less toxic content using Meta AI's hate speech reward model. We employ **Proximal Policy Optimization (PPO)**, a **reinforcement learning algorithm**, to reduce the model's toxicity.
 
