@@ -6,6 +6,7 @@ This repository contains a collection of projects and experiments developed whil
 * Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
 * Evaluation using BLEU score
+* Parameter-Efficient Fine-Tuning (PEFT) technique
 * Proximal Policy Optimization (PPO) technique
 * Direct Preference Optimization (DPO) technique
 * Group Relative Policy Optimization (GRPO) technique
@@ -28,6 +29,11 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 BleuScore.ipynb
 * This file compares English-to-Farsi translation quality between **facebook/mbart model** and **Google Translate**, using **BLEU score** as the evaluation metric.
+
+---
+
+# 📝 FineTunePEFT_DialogueSummarization.ipynb
+* In this notebook, we fine-tune the **FLAN-T5 model** from Hugging Face for enhanced dialogue summarization. To improve the inferences, we explore a full fine-tuning approach and evaluate the results with **ROUGE metrics**. Then, we perform **Parameter-Efficient Fine-Tuning (PEFT)**, evaluate the resulting model, and observe that the benefits of PEFT outweigh the slightly lower performance metrics.
 
 ---
 
