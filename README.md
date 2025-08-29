@@ -55,6 +55,12 @@ This repository contains a collection of projects and experiments developed whil
 
 ---
 
+# 📝 FineTuningForPersianPoetry.ipynb
+* This notebook demonstrates how to fine-tune a Persian GPT-2 model to generate poetry in the style of specific Persian poets, based on a prompt that includes the poet's name.
+* **source code**: [Link](https://github.com/hooshvare/parsgpt/tree/master) & [Link](https://huggingface.co/HooshvareLab/gpt2-fa-poetry)
+
+---
+
 # 📝 FineTuneWithPPO.ipynb
 * In this notebook, we fine-tune the **FLAN-T5 model** to generate less toxic content using Meta AI's hate speech reward model. We employ **Proximal Policy Optimization (PPO)**, a **reinforcement learning algorithm**, to reduce the model's toxicity.
 
