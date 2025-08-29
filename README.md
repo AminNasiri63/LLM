@@ -40,6 +40,12 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 FineTunePEFT_IMDB_Classifier.ipynb
 * This Jupyter Notebook demonstrates how to efficiently fine-tune the **google/gemma-2b-it model** for **sentiment analysis** using **Parameter-Efficient Fine-Tuning (PEFT)** with **LoRA (Low-Rank Adaptation)**.
+
+---
+
+# 📝 FineTunePEFT_E2F.ipynb
+* This notebook demonstrates an efficient method for fine-tuning the **google/gemma-2b-it model** for English-to-Persian translation using **PEFT (Parameter-Efficient Fine-Tuning)** with **QLoRA**.
+
 ---
 
 # 📝 FineTuneWithPPO.ipynb
