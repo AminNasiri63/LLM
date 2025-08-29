@@ -51,6 +51,7 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 PromptTuninPEFT.ipynb
 * In this notebook, we train two different models using two datasets, each with just one pre-trained model from the **Bloom family**. For training, we apply **Prompt Tuning** with the **PEFT** library to a pre-trained model.
+* **source code**: [Link](https://github.com/peremartra/Large-Language-Model-Notebooks-Course/tree/main)
 
 ---
 
