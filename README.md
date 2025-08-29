@@ -7,6 +7,7 @@ This repository contains a collection of projects and experiments developed whil
 * Translate input text
 * Evaluation using BLEU score
 * Parameter-Efficient Fine-Tuning (PEFT) technique
+* Low-Rank Adaptation (LoRA)
 * Proximal Policy Optimization (PPO) technique
 * Direct Preference Optimization (DPO) technique
 * Group Relative Policy Optimization (GRPO) technique
@@ -33,7 +34,7 @@ This repository contains a collection of projects and experiments developed whil
 ---
 
 # 📝 FineTunePEFT_DialogueSummarization.ipynb
-* In this notebook, we fine-tune the **FLAN-T5 model** from Hugging Face for enhanced dialogue summarization. To improve the inferences, we explore a full fine-tuning approach and evaluate the results with **ROUGE metrics**. Then, we perform **Parameter-Efficient Fine-Tuning (PEFT)**, evaluate the resulting model, and observe that the benefits of PEFT outweigh the slightly lower performance metrics.
+* In this notebook, we fine-tune the **FLAN-T5 model** from Hugging Face for enhanced dialogue summarization. To improve the inferences, we explore a full fine-tuning approach and evaluate the results with **ROUGE metrics**. Then, we perform **Parameter-Efficient Fine-Tuning (PEFT)** with **LoRA (Low-Rank Adaptation)**, evaluate the resulting model, and observe that the benefits of PEFT outweigh the slightly lower performance metrics.
 
 ---
 
