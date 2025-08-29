@@ -7,6 +7,7 @@ This repository contains a collection of projects and experiments developed whil
 * Translate input text
 * Evaluation using BLEU score
 * Parameter-Efficient Fine-Tuning (PEFT) technique
+* Prompt Tuning technique
 * Low-Rank Adaptation (LoRA)
 * Proximal Policy Optimization (PPO) technique
 * Direct Preference Optimization (DPO) technique
@@ -45,6 +46,11 @@ This repository contains a collection of projects and experiments developed whil
 
 # 📝 FineTunePEFT_E2F.ipynb
 * This notebook demonstrates an efficient method for fine-tuning the **google/gemma-2b-it model** for English-to-Persian translation using **PEFT (Parameter-Efficient Fine-Tuning)** with **QLoRA**.
+
+---
+
+# 📝 PromptTuninPEFT.ipynb
+* In this notebook, we train two different models using two datasets, each with just one pre-trained model from the **Bloom family**. For training, we apply **Prompt Tuning** with the **PEFT** library to a pre-trained model.
 
 ---
 
