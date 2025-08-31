@@ -3,7 +3,7 @@ This repository contains a collection of projects and experiments developed whil
 * Prompt engineering
 * In-context learning (zero-shot, one-shot, few-shot)
 [comment]: # (Use FLAN-T5, a large language model fine-tuned with instruction-based tasks to follow natural language prompts)
-  # Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
+[comment]: # Use mBART-50, a multilingual sequence-to-sequence model trained on many languages
 * Translate input text
 * Evaluation using BLEU score
 * Parameter-Efficient Fine-Tuning (PEFT) technique
